@@ -4,7 +4,7 @@ SD4ED (Sequence Diagram Tool for Education) is an online educational tool develo
 
 
 
-[To access the tool, you can visit the following link](http://118.138.242.255:8080/sd4ed-1.0/)
+
 
 
 
